@@ -1,0 +1,49 @@
+/* TEXT */
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+/* SPACING */
+.margin-top {
+  margin-top: 1em;
+}
+
+.rm-margin-bottom {
+  margin-bottom: 0 !important;
+}
+
+/* MEDIA */
+.album-cover {
+  width: 100%;
+}
+
+.brand-icon {
+  width: 30px;
+}
+
+/* LIST */
+.no-points-list {
+  list-style: none;
+}
+
+/* LIKS */
+.simple-link {
+  text-decoration: none;
+  border: 0;
+}
+
+.simple-link:hover {
+  text-decoration: none;
+}
+
+/* ALIGN */
+.centered-content {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  align-items: center;
+}
