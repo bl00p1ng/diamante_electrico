@@ -1,4 +1,4 @@
-# diamante_electrico
+# Diamante Eléctrico
 Diamante Eléctrico Website
 
 Hecho por [blooping](https://blooping.me)
